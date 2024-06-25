@@ -1,0 +1,23 @@
+[33mcommit 5a6c383c3afe74079ebde6dbc09bf371db2abb14[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ryland Mendizabal <rylandmendizabal@gmail.com>
+Date:   Sun Jun 16 17:26:18 2024 -0600
+
+    Added blog image and fixed some issues
+
+[33mcommit 9f437355efc6304930e28bc8e442aeb2853a9f62[m
+Author: Ryland Mendizabal <rylandmendizabal@gmail.com>
+Date:   Fri Jun 14 17:38:26 2024 -0600
+
+    Added content to blog one
+
+[33mcommit 4bfc12b42e7da00736b596073f6be59c820e5365[m
+Author: Ryland Mendizabal <rylandmendizabal@gmail.com>
+Date:   Fri Jun 14 12:04:44 2024 -0600
+
+    Moved Html files and changed the href
+
+[33mcommit d68205b2f1de39921f1319a74ec4b88724df0f91[m
+Author: Ryland Mendizabal <rylandmendizabal@gmail.com>
+Date:   Fri Jun 14 10:32:05 2024 -0600
+
+    First git init, this is my website :P
