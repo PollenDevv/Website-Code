@@ -162,7 +162,7 @@
     color: black;
   }
   
-  #blog1 {
+  #blog {
     background-color: cornsilk;
     border-radius: 10px;
     height: 600px;
@@ -173,29 +173,19 @@
     display: inline-block;
   }
   
-  #blog1 h1 {
+  #blog h1 {
     text-align: left;
     color: black;
     padding-top: 5px;
     padding-left: 15px;
   }
   
-  #blog1 p {
+  #blog p {
     text-align: left;
     padding-left: 10px;
     color: black;
   }
   
-  #blog2 {
-    background-color: cornsilk;
-    border-radius: 10px;
-    height: 600px;
-    width: 500px;
-    margin-right: auto;
-    margin-left: 10px;
-    overflow: scroll;
-    display: inline-block;
-  }
   .blogs img {
     border-radius: 10%;
     padding-left: 12px;
@@ -222,4 +212,8 @@
     100% {
       background-position: 100% 0%;
     }
+  }
+  .banner{
+    width: 200px;
+    height: 200px;
   }
